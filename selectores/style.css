@@ -1,0 +1,19 @@
+body{
+    background-color: crimson;
+}
+#primero{
+color: chocolate;
+font-size: 36px;
+}
+.Parrafo{
+    color: chartreuse;
+    font-size: 30px;
+}
+div{
+    background-color: cornflowerblue;
+}
+p{
+    color: rgb(127, 255, 159);
+    font-size: 35px;
+}
+
