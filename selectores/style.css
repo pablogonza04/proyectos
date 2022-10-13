@@ -1,19 +1,18 @@
 body{
-    background-color: crimson;
+    background-color: brown;
 }
-#primero{
-color: chocolate;
-font-size: 36px;
+.parrafo{
+    color: blue;
+    font-size: 25px;
 }
-.Parrafo{
-    color: chartreuse;
+#cuarto{
+    color: blueviolet;
     font-size: 30px;
 }
-div{
-    background-color: cornflowerblue;
+#texto{
+    color: blue;
 }
 p{
-    color: rgb(127, 255, 159);
-    font-size: 35px;
+    color: blueviolet;
+    font-size: 40px;
 }
-
