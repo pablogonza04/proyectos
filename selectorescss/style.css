@@ -14,7 +14,7 @@ body {
     margin: auto;
     background-color: aquamarine;
     width: 90;
-    height: 90px;
+    height: 130px;
     border: 8px solid red
 }
 
@@ -23,7 +23,7 @@ body {
     margin: auto;
     background-color: indianred;
     width: 60;
-    height: 60px;
+    height: 90px;
     border: 5px solid green;
 }
 
@@ -32,7 +32,7 @@ body {
     margin: auto;
     background-color: sienna;
     width: 55;
-    height: 60px;
+    height: 90px;
     border: 11px solid palevioletred;
 }
 
@@ -48,7 +48,7 @@ body {
     text-align: center;
     background-color: slateblue;
     width: 90;
-    height: 90px;
+    height: 130px;
     border: 9px solid 
 }
 
@@ -64,7 +64,7 @@ body {
     text-align: center;
     background-color: lime;
     width: 50pc;
-    height: 75px;
+    height: 80px;
     border: 10px solid white;
 }
 
