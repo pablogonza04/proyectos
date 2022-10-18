@@ -68,3 +68,6 @@ body {
     border: 10px solid white;
 }
 
+ul{
+    list-style-image: url("img/foto.ico");
+}
