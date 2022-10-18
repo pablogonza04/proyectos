@@ -1,0 +1,30 @@
+html{
+    border: brown solid 8px;
+}
+body{
+    margin:0px;
+    border: blue solid 8px;
+    background-color:chartreuse;
+    
+}
+
+#h1{
+    color: blue;
+    font-size: 40px;
+    font-style:italic;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: 8px solid purple;
+    border-width: 10px;
+    background-color: aquamarine;
+
+}
+p{
+    color:whitesmoke;
+    border-radius: 25px;
+    border: ridge 0.7rem;
+    border-color: aqua black red fuchsia;
+    font-size: 20px;
+    font-family: sans-serif;
+    padding: 6px 20px 8px;
+    width: 25%;
+}
