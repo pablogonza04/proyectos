@@ -1,0 +1,25 @@
+li{
+    list-style: none;
+    display: inline;
+    padding: 0px 0px 0px 70px;
+}
+
+img{
+    width: 140px;
+    padding: 0px 0px 0px 180px;
+}
+
+header{
+    height: 50%;
+    background-color: aqua;
+}
+
+nav{
+    height: 70%;
+    background-color: brown;
+}
+
+footer{
+    height: 60%;
+    background-color: blueviolet;
+}
