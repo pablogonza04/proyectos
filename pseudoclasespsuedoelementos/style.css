@@ -1,0 +1,26 @@
+main :first-child{
+    color: red;
+}
+a:link{
+    color:brown;
+    background-color: black;
+}
+a:visited{
+    background-color: blue;
+    color: white;
+}
+a:hover{
+    background-color: aqua;
+    color: red;
+}
+.parrafo2:hover{
+    background-color: purple;
+    color:black
+    
+}
+a:active{
+    font-size: xx-large;
+    color: orangered;
+}
+
+
