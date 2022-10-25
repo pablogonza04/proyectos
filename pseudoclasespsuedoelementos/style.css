@@ -22,5 +22,20 @@ a:active{
     font-size: xx-large;
     color: orangered;
 }
+input:focus{
+    background-color: brown;
+    border:aqua 3px double;
+}
+p::first-line{
+    text-transform: capitalize;
+}
+p.parrafo3::first-letter{
+    color: blue;
+    font-weight: bold;
+    font-style: oblique;
+    font-size: 100px;
+}
+
+    
 
 
