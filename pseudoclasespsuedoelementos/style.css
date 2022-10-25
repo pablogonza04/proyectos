@@ -35,6 +35,10 @@ p.parrafo3::first-letter{
     font-style: oblique;
     font-size: 100px;
 }
+p.parrafo3:hover{
+    background-color:yellow;
+    color: brown;
+}
 
     
 
